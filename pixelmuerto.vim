@@ -1,5 +1,4 @@
 " Vim color file:  pixelmuerto.vim
-" Last Change: 2009-03-13 
 " Maintainer: pixelmuerto 
 " License: public domain
 " Version: 0.1
@@ -8,7 +7,8 @@
 " "{{{
 " it only works in such a terminal and when you have:
 " set t_Co=256
-" in your vimrc"}}}
+" in your vimrc
+" "}}}
 
 " {{{ t_Co=256 is set - check 
 if &t_Co != 256 && ! has("gui_running")
