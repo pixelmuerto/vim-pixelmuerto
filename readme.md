@@ -14,4 +14,4 @@ in your ~/.vimrc
 Screenshot
 ----------
 
-[![dark]()]
+![dark](https://github.com/pixelmuerto/vim-pixelmuerto/blob/master/pixelmuerto.png)
