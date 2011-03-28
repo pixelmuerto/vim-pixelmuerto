@@ -1,3 +1,5 @@
+pixelmuerto colorscheme for vim
+===============================
 Vim color file:  pixelmuerto.vim
 Maintainer: pixelmuerto 
 License: public domain
@@ -8,3 +10,8 @@ for a 256 color capable terminal like xterm-256color, ... or gvim as well
 it only works in such a terminal and when you have:
 set t_Co=256
 in your ~/.vimrc
+
+Screenshot
+----------
+
+[![dark]()]

@@ -9,7 +9,6 @@
 " set t_Co=256
 " in your vimrc
 " "}}}
-
 " {{{ t_Co=256 is set - check 
 if &t_Co != 256 && ! has("gui_running")
     echomsg ""
@@ -30,7 +29,6 @@ let g:colors_name = "pixelmuerto"
 let s:save_cpo = &cpo
 set cpo&vim
 " }}}
-
 " FORMAT:"{{{
 "
 " \ ["color-group", "term-style", "foreground-color", "background-color", "gui-style", "under-curl-color" ],
